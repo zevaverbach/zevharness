@@ -3,7 +3,7 @@
  *
  * Scope: the non-streaming response object, its output items, content parts, usage and
  * status. Streaming events (`response.*`) and request types are NOT covered here
- * (request types live in ../requests/types.d.ts).
+ * (request types live in ../requests/responses-api.d.ts).
  *
  * Source: OpenRouter's OpenAPI spec (https://openrouter.ai/openapi.json), schemas
  * `OpenResponsesResult` / `BaseResponsesResult` and the OutputItem* schemas.
